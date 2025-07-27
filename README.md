@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on **Java Projects and DSA**
 - 🌱 I’m learning **Web Development and System Design**
 - 💬 Ask me about **Java, Git, and Competitive Programming**
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/shivam-kumar-bb562a301)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivam-kumar-bb562a301)
+
 
 ---
 
